@@ -14,4 +14,7 @@
             <scope>provided</scope>
         </dependency>
     </dependencies>
+    <properties>
+       <tomcat.version>8.0.15</tomcat.version>
+    </properties>
 </project>
